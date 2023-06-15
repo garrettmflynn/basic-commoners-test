@@ -13,7 +13,7 @@ rootDiv.style.backgroundColor = '#101010'; //page color
 rootDiv.style.color = 'white'; //text color
 
 let div = document.createElement('div');
-div.innerHTML = 'Hello world!';
+div.innerHTML = 'Hello world from commoners!';
 div.id = 'floatingDiv';
 
 Object.assign(div.style, {
